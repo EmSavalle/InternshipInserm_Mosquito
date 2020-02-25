@@ -1,0 +1,286 @@
+SOFAlizer 1.2.0: SOFA-based spatializer (c) Piotr Majdak, ARI, OeAW
+System sampling rate: 44100 Hz, Buffer size:1024 samples
+hrtf0.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF B, NH4.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf1.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, HRTF B, NH4.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf2.sofa: Can't load file
+hrtf3.sofa: Can't load file
+hrtf4.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, HRTF B, NH4.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf5.sofa: Can't load file
+hrtf6.sofa: Can't load file
+hrtf7.sofa: Can't load file
+hrtf8.sofa: Can't load file
+hrtf9.sofa: Can't load file
+SOFAlizer 1.2.0: SOFA-based spatializer (c) Piotr Majdak, ARI, OeAW
+System sampling rate: 44100 Hz, Buffer size:1024 samples
+hrtf0.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF B, NH4.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf1.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, HRTF B, NH4.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf2.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH13.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf3.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH12.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf4.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, HRTF B, NH4.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf5.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH11.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf6.sofa: 1549 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH10.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf7.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH8.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf8.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH5.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf9.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH4.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+Unloaded! **************************************************************************
+
+SOFAlizer 1.2.0: SOFA-based spatializer (c) Piotr Majdak, ARI, OeAW
+System sampling rate: 44100 Hz, Buffer size:1024 samples
+hrtf0.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF B, NH4.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf1.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, HRTF B, NH4.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf2.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH13.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf3.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH12.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf4.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, HRTF B, NH4.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf5.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH11.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf6.sofa: 1549 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH10.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf7.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH8.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf8.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH5.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf9.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH4.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+Unloaded! **************************************************************************
+
+SOFAlizer 1.2.0: SOFA-based spatializer (c) Piotr Majdak, ARI, OeAW
+System sampling rate: 44100 Hz, Buffer size:1024 samples
+hrtf0.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF B, NH4.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf1.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, HRTF B, NH4.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf2.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH13.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf3.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH12.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf4.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, HRTF B, NH4.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf5.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH11.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf6.sofa: 1549 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH10.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf7.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH8.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf8.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH5.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf9.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH4.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+Unloaded! **************************************************************************
+
+SOFAlizer 1.2.0: SOFA-based spatializer (c) Piotr Majdak, ARI, OeAW
+System sampling rate: 44100 Hz, Buffer size:1024 samples
+hrtf0.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF B, NH4.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf1.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, HRTF B, NH4.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf2.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH13.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf3.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH12.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf4.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, HRTF B, NH4.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf5.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH11.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf6.sofa: 1549 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH10.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf7.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH8.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf8.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH5.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf9.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH4.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+Unloaded! **************************************************************************
+
+SOFAlizer 1.2.0: SOFA-based spatializer (c) Piotr Majdak, ARI, OeAW
+System sampling rate: 44100 Hz, Buffer size:1024 samples
+hrtf0.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF B, NH4.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf1.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, HRTF B, NH4.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf2.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH13.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf3.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH12.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf4.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, HRTF B, NH4.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf5.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH11.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf6.sofa: 1549 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH10.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf7.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH8.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf8.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH5.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf9.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH4.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+SOFAlizer 1.2.0: SOFA-based spatializer (c) Piotr Majdak, ARI, OeAW
+System sampling rate: 44100 Hz, Buffer size:1024 samples
+hrtf0.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF B, NH4.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf1.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, HRTF B, NH4.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf2.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH13.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf3.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH12.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf4.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, HRTF B, NH4.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf5.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH11.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf6.sofa: 1549 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH10.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf7.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH8.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf8.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH5.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf9.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH4.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+Unloaded! **************************************************************************
+
+SOFAlizer 1.2.0: SOFA-based spatializer (c) Piotr Majdak, ARI, OeAW
+System sampling rate: 44100 Hz, Buffer size:1024 samples
+hrtf0.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF B, NH4.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf1.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, HRTF B, NH4.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf2.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH13.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf3.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH12.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf4.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, HRTF B, NH4.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf5.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH11.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf6.sofa: 1549 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH10.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf7.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH8.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf8.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH5.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf9.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH4.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+Unloaded! **************************************************************************
+
+SOFAlizer 1.2.0: SOFA-based spatializer (c) Piotr Majdak, ARI, OeAW
+System sampling rate: 44100 Hz, Buffer size:1024 samples
+hrtf0.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF B, NH4.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf1.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, HRTF B, NH4.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf2.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH13.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf3.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH12.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf4.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, HRTF B, NH4.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf5.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH11.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf6.sofa: 1549 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH10.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf7.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH8.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf8.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH5.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
+hrtf9.sofa: 1550 HRTFs, 256 samples @ 48000 Hz. ARI, DTF, NH4.
+--> resampled to 44100 Hz, new IR length: 236 samples
+--> cropped to 128 samples
